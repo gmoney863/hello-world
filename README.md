@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hello Subjects
+
+I can accomplish anything
+I am a Haitian Green Lantern
